@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Jua&family=Noto+Sans+KR:wght@400;500;700&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Noto Sans KR", ui-sans-serif, system-ui, sans-serif;
+  --font-heading: "Jua", cursive;
+  
+  --color-kinder-pink: #FFD1DC;
+  --color-kinder-blue: #AEC6CF;
+  --color-kinder-yellow: #FDFD96;
+  --color-kinder-green: #77DD77;
+  --color-kinder-purple: #C8A2C8;
+}
+
+body {
+  background-color: #FAFAFA;
+}
